@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Knock n Block.iml" filepath="$PROJECT_DIR$/Knock n Block.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TinyBank/TinyBank.iml" filepath="$PROJECT_DIR$/../TinyBank/TinyBank.iml" />
     </modules>
   </component>
 </project>
